@@ -4,6 +4,7 @@ categories: games
 tags: games math python
 layout: post
 ---
+![Atom Bomb](/images/doomsday.jpg)
 Something that I've been interested in for a long time but never got around to actually doing is learning the Doomsday algorithm, a method for mentally calculating the day of the week for any given date.
 
 My curiosity was rekindled a few weeks ago when the Numberphile YouTube channel posted [a video]() explaining how the method works. While I was looking at the [Wikipedia page](), I found this quote:
