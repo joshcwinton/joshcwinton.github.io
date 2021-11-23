@@ -1,5 +1,5 @@
 ---
-title:  "Adding Stats to The Doomsday Game"
+title:  "Adding Multiple Rounds to The Doomsday Game"
 categories: doomsday_game
 tags: games math python
 layout: post
