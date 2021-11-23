@@ -1,6 +1,6 @@
 ---
 title:  "A Doomsday Algorithm Game"
-categories: games
+categories: doomsday-game
 tags: games math python
 layout: post
 ---
