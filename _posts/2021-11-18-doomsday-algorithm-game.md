@@ -15,6 +15,8 @@ Apparently this was mentioned in a *Scientific American* article that, unfortuna
 
 I thought that an interesting project might be to try replicate that program that gives the user a date and asks them to respond with the day. I've decided to implement this program in Python.
 
+**All of the code for this project is available on [GitHub](https://github.com/joshcwinton/doomsday-game/).**
+
 ## Reading input
 For starters, I need to set up a way to send a message to the reader and to get a response back. This code prints the message "make a guess: " then waits for the user to type something and hit enter. After the user responds, the program prints back their response.
 
